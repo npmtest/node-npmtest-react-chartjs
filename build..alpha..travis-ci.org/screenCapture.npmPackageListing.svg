@@ -1,21 +1,21 @@
 <svg height="286" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="286" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-21 12:33:42 +0000    23467 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-21 12:33:42 +0000     1078 bytes  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-21 12:33:42 +0000     1877 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-21 12:33:42 +0000     8297 bytes  dist/react-chartjs.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-21 12:33:42 +0000     3407 bytes  dist/react-chartjs.min.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-21 12:33:42 +0000      274 bytes  index.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-21 12:33:42 +0000       93 bytes  lib/bar.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-21 12:33:42 +0000     4334 bytes  lib/core.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-21 12:33:42 +0000      102 bytes  lib/doughnut.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-21 12:33:42 +0000       96 bytes  lib/line.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-21 12:33:42 +0000       97 bytes  lib/pie.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-21 12:33:42 +0000      103 bytes  lib/polar-area.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-21 12:33:42 +0000       97 bytes  lib/radar.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-21 12:33:42 +0000      873 bytes  package.json</tspan>
-<tspan x="10" y="250"> 14.  2017-04-21 12:33:42 +0000     1750 bytes  release-notes.md</tspan>
-<tspan x="10" y="266"> 15.  2017-04-21 12:33:42 +0000      989 bytes  webpack.config.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-21 12:34:43 +0000    23467 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 12:34:43 +0000     1078 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 12:34:43 +0000     1877 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 12:34:43 +0000     8297 bytes  dist/react-chartjs.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 12:34:43 +0000     3407 bytes  dist/react-chartjs.min.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 12:34:43 +0000      274 bytes  index.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 12:34:43 +0000       93 bytes  lib/bar.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 12:34:43 +0000     4334 bytes  lib/core.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 12:34:43 +0000      102 bytes  lib/doughnut.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 12:34:43 +0000       96 bytes  lib/line.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 12:34:43 +0000       97 bytes  lib/pie.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 12:34:43 +0000      103 bytes  lib/polar-area.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 12:34:43 +0000       97 bytes  lib/radar.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-21 12:34:43 +0000      873 bytes  package.json</tspan>
+<tspan x="10" y="250"> 14.  2017-04-21 12:34:43 +0000     1750 bytes  release-notes.md</tspan>
+<tspan x="10" y="266"> 15.  2017-04-21 12:34:43 +0000      989 bytes  webpack.config.js</tspan>
 </text>
 </svg>
